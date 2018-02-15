@@ -1,0 +1,10 @@
+.list {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px;
+	margin: 15px 0;
+	border-radius: 5px;
+	box-shadow: 0 0 8px 0 rgba(41, 43, 51, 0.2);
+	box-sizing: border-box;
+}
